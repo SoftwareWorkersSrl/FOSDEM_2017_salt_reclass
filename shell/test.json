@@ -1,0 +1,154 @@
+{
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "width": 191,
+  "title": null,
+  "version": 1,
+  "command": null,
+  "duration": 13.377324,
+  "height": 51,
+  "stdout": [
+    [
+      0.116714,
+      "\u001b]0;risca@portatilej: ~/Annex/document/tmp/Talk_FOSDEM\u0007risca@portatilej:~/Annex/document/tmp/Talk_FOSDEM$ "
+    ],
+    [
+      2.431351,
+      "#"
+    ],
+    [
+      1.6688,
+      "r"
+    ],
+    [
+      0.34311,
+      "e"
+    ],
+    [
+      0.256867,
+      "c"
+    ],
+    [
+      0.136771,
+      "o"
+    ],
+    [
+      0.269102,
+      "r"
+    ],
+    [
+      0.225012,
+      "d"
+    ],
+    [
+      0.158071,
+      "i"
+    ],
+    [
+      0.194983,
+      "n"
+    ],
+    [
+      0.112183,
+      "g"
+    ],
+    [
+      0.117722,
+      " "
+    ],
+    [
+      0.1236,
+      "t"
+    ],
+    [
+      0.079823,
+      "e"
+    ],
+    [
+      0.195296,
+      "s"
+    ],
+    [
+      0.185326,
+      "t"
+    ],
+    [
+      0.482092,
+      "\r\n\u001b]0;risca@portatilej: ~/Annex/document/tmp/Talk_FOSDEM\u0007risca@portatilej:~/Annex/document/tmp/Talk_FOSDEM$ "
+    ],
+    [
+      0.710372,
+      "e"
+    ],
+    [
+      0.409472,
+      "c"
+    ],
+    [
+      0.115502,
+      "h"
+    ],
+    [
+      0.091405,
+      "o"
+    ],
+    [
+      0.457028,
+      " "
+    ],
+    [
+      0.329417,
+      "'"
+    ],
+    [
+      0.315604,
+      "i"
+    ],
+    [
+      0.114835,
+      "t"
+    ],
+    [
+      0.138466,
+      " "
+    ],
+    [
+      0.207155,
+      "w"
+    ],
+    [
+      0.122318,
+      "o"
+    ],
+    [
+      0.149939,
+      "r"
+    ],
+    [
+      0.248612,
+      "d"
+    ],
+    [
+      0.385841,
+      "\b\u001b[K"
+    ],
+    [
+      0.257105,
+      "k"
+    ],
+    [
+      1.487636,
+      "s"
+    ],
+    [
+      0.297258,
+      "'"
+    ],
+    [
+      0.44227,
+      "\r\nit works\r\n\u001b]0;risca@portatilej: ~/Annex/document/tmp/Talk_FOSDEM\u0007risca@portatilej:~/Annex/document/tmp/Talk_FOSDEM$ "
+    ]
+  ]
+}

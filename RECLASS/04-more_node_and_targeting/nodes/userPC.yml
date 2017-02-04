@@ -1,0 +1,8 @@
+classes:
+  - users.admin
+  - users.noob
+parameters:
+  users:
+    noob:
+      ssh_keys:
+        privkey: 'AAwhish_to_knowKKK'
